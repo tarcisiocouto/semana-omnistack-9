@@ -4,7 +4,7 @@
 
 <h1 align="center">Semana Omnistack 09</h1>
 
-Código do projeto desenvolvido na Semana Omnistack 9
+Código do projeto desenvolvido com fins de aprendizado na Semana Omnistack número 9 da [Rocketseat](https://rocketseat.com.br/).
 
 <h4 align="center">
   ☕ Code and coffee
@@ -18,4 +18,6 @@ Código do projeto desenvolvido na Semana Omnistack 9
 
 ### Descrição
 
-Projeto desenvolvido durante a Semana Omnistaci 09 da RocketSeat.
+- Backend   - API em NodeJS;
+- FrontEnd  - ReactJS;
+- Mobile    - React-Native
